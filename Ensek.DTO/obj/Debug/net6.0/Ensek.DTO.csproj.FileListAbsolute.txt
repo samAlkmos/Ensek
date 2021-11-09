@@ -1,0 +1,12 @@
+D:\Ensek\Ensek.DTO\bin\Debug\net6.0\Ensek.DTO.deps.json
+D:\Ensek\Ensek.DTO\bin\Debug\net6.0\Ensek.DTO.dll
+D:\Ensek\Ensek.DTO\bin\Debug\net6.0\ref\Ensek.DTO.dll
+D:\Ensek\Ensek.DTO\bin\Debug\net6.0\Ensek.DTO.pdb
+D:\Ensek\Ensek.DTO\obj\Debug\net6.0\Ensek.DTO.GlobalUsings.g.cs
+D:\Ensek\Ensek.DTO\obj\Debug\net6.0\Ensek.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ensek\Ensek.DTO\obj\Debug\net6.0\Ensek.DTO.AssemblyInfoInputs.cache
+D:\Ensek\Ensek.DTO\obj\Debug\net6.0\Ensek.DTO.AssemblyInfo.cs
+D:\Ensek\Ensek.DTO\obj\Debug\net6.0\Ensek.DTO.csproj.CoreCompileInputs.cache
+D:\Ensek\Ensek.DTO\obj\Debug\net6.0\Ensek.DTO.dll
+D:\Ensek\Ensek.DTO\obj\Debug\net6.0\ref\Ensek.DTO.dll
+D:\Ensek\Ensek.DTO\obj\Debug\net6.0\Ensek.DTO.pdb

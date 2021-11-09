@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RTN6uuK+296p4OPlLlwI3uwh3saR9oUooATAXhBXaI++l/jtWeyDyZZ7IlibWaRscSehTjhm/NQhSUygPcWVHA==",
+  "success": true,
+  "projectFilePath": "D:\\Ensek\\Ensek.Entity\\Ensek.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

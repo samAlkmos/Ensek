@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e08cc65-b898-4a84-81f0-08f7f11265da": {
+      "ProjectGuid": "9e08cc65-b898-4a84-81f0-08f7f11265da",
+      "DisplayName": "Ensek.API",
+      "ColorIndex": 0
+    },
+    "f30f04d1-11e6-4388-9c46-a2cb7a40ec7d": {
+      "ProjectGuid": "f30f04d1-11e6-4388-9c46-a2cb7a40ec7d",
+      "DisplayName": "Ensek.DAL",
+      "ColorIndex": 1
+    },
+    "d62cba28-43f7-46a8-a458-b9f0df9d9fdb": {
+      "ProjectGuid": "d62cba28-43f7-46a8-a458-b9f0df9d9fdb",
+      "DisplayName": "Ensek.Helpers",
+      "ColorIndex": 2
+    },
+    "5edd1c9d-e5af-4a72-b419-2542545563a8": {
+      "ProjectGuid": "5edd1c9d-e5af-4a72-b419-2542545563a8",
+      "DisplayName": "Ensek.Ioc",
+      "ColorIndex": 3
+    },
+    "a1a2eed2-39f3-49fd-8615-b0dfb40a8c37": {
+      "ProjectGuid": "a1a2eed2-39f3-49fd-8615-b0dfb40a8c37",
+      "DisplayName": "Ensek.Entity",
+      "ColorIndex": 4
+    },
+    "a6a255e1-b9c8-469b-a3dd-6a3aff5e4e87": {
+      "ProjectGuid": "a6a255e1-b9c8-469b-a3dd-6a3aff5e4e87",
+      "DisplayName": "Ensek.BLL",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

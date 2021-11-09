@@ -1,0 +1,13 @@
+D:\Ensek\Ensek.Entity\bin\Debug\net6.0\Ensek.Entity.deps.json
+D:\Ensek\Ensek.Entity\bin\Debug\net6.0\Ensek.Entity.dll
+D:\Ensek\Ensek.Entity\bin\Debug\net6.0\ref\Ensek.Entity.dll
+D:\Ensek\Ensek.Entity\bin\Debug\net6.0\Ensek.Entity.pdb
+D:\Ensek\Ensek.Entity\obj\Debug\net6.0\Ensek.Entity.GlobalUsings.g.cs
+D:\Ensek\Ensek.Entity\obj\Debug\net6.0\Ensek.Entity.csproj.AssemblyReference.cache
+D:\Ensek\Ensek.Entity\obj\Debug\net6.0\Ensek.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ensek\Ensek.Entity\obj\Debug\net6.0\Ensek.Entity.AssemblyInfoInputs.cache
+D:\Ensek\Ensek.Entity\obj\Debug\net6.0\Ensek.Entity.AssemblyInfo.cs
+D:\Ensek\Ensek.Entity\obj\Debug\net6.0\Ensek.Entity.csproj.CoreCompileInputs.cache
+D:\Ensek\Ensek.Entity\obj\Debug\net6.0\Ensek.Entity.dll
+D:\Ensek\Ensek.Entity\obj\Debug\net6.0\ref\Ensek.Entity.dll
+D:\Ensek\Ensek.Entity\obj\Debug\net6.0\Ensek.Entity.pdb
